@@ -1,7 +1,7 @@
 # Nudge
 ### Nudging Economics Students Towards Clarity
 
-**Live Demo:** [Try Nudge here]((https://mariamolawuyi-create.github.io/Nudge)) 
+**Live Demo:** [https://mariamolawuyi-create.github.io/Nudge] 
 
 ---
 
